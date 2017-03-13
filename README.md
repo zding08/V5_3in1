@@ -1,3 +1,3 @@
 # V5_3in1
 3in1 software for Anitoa qPCR
-Initial edit bu zhimin
+Initial edit by zhimin
