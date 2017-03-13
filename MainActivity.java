@@ -15,7 +15,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
 	/*
-	 * 控件变量定义
+	 * 驴脴录镁卤盲脕驴露篓脪氓
 	 */
 	private Button btnLogin;
 	private Button btnCnctBTdev;
@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
 				if(!"".equals(user) && !"".equals(pwd)){
 					if(!pwd.equals(repwd))
 					{
-						Toast.makeText(MainActivity.this, "The repeat password don't match"
+						Toast.makeText(MainActivity.this, "The repeat password doesn't match"
 								+ "password, please input password again", Toast.LENGTH_LONG).show();
 						
 						((EditText)findViewById(R.id.pwd)).setText("");
